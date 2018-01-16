@@ -75,6 +75,10 @@ img, video, audio {
   max-width: 100%;
 }
 /*WRAPPER*/
+
+* {
+  box-sizing: border-box;
+}
 .wrapper {
   width: 1080px;
   margin: 0 auto;
